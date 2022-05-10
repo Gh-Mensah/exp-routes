@@ -1,2 +1,2 @@
 # exp-routes
-A simple of routing of pages with express and nodeJS
+A simple example of routing with node using express and a simple application of pagnition to sort files.
